@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "UnitMix"]
 	path = UnitMix
-	url = https://github.com/cran/UnitMix
+	url = https://github.com/cristinafaricelli/unitmix
